@@ -1,0 +1,709 @@
+## The 1 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.730852  acc: 50.0000%(8/16))
+Dev  Accuracy:  Evaluation - loss: 0.000817  acc: 50.9174%(444/872)
+Test Accuracy:  Evaluation - loss: 0.000396  acc: 49.9176%(909/1821)
+The Current Best Dev Accuracy: 50.9174, and Test Accuracy is :49.9176, locate on 1 epoch.
+
+Batch[400/6920] - loss: 0.686517  acc: 56.2500%(9/16))
+Dev  Accuracy:  Evaluation - loss: 0.000777  acc: 56.9954%(497/872)
+Test Accuracy:  Evaluation - loss: 0.000372  acc: 56.7271%(1033/1821)
+The Current Best Dev Accuracy: 56.9954, and Test Accuracy is :56.7271, locate on 1 epoch.
+
+Batch[430/6920] - loss: 0.691802  acc: 50.0000%(8/16))
+## The 2 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.672720  acc: 62.5000%(10/16)
+Dev  Accuracy:  Evaluation - loss: 0.000723  acc: 59.4037%(518/872)
+Test Accuracy:  Evaluation - loss: 0.000351  acc: 57.4959%(1047/1821)
+The Current Best Dev Accuracy: 59.4037, and Test Accuracy is :57.4959, locate on 2 epoch.
+
+Batch[400/6920] - loss: 0.439612  acc: 93.7500%(15/16)
+Dev  Accuracy:  Evaluation - loss: 0.000689  acc: 64.9083%(566/872)
+Test Accuracy:  Evaluation - loss: 0.000329  acc: 64.1406%(1168/1821)
+The Current Best Dev Accuracy: 64.9083, and Test Accuracy is :64.1406, locate on 2 epoch.
+
+Batch[430/6920] - loss: 0.701342  acc: 50.0000%(8/16))
+## The 3 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.462320  acc: 93.7500%(15/16)
+Dev  Accuracy:  Evaluation - loss: 0.000626  acc: 72.4771%(632/872)
+Test Accuracy:  Evaluation - loss: 0.000300  acc: 72.5426%(1321/1821)
+The Current Best Dev Accuracy: 72.4771, and Test Accuracy is :72.5426, locate on 3 epoch.
+
+Batch[400/6920] - loss: 0.752517  acc: 50.0000%(8/16))
+Dev  Accuracy:  Evaluation - loss: 0.000523  acc: 79.3578%(692/872)
+Test Accuracy:  Evaluation - loss: 0.000253  acc: 80.0110%(1457/1821)
+The Current Best Dev Accuracy: 79.3578, and Test Accuracy is :80.0110, locate on 3 epoch.
+
+Batch[430/6920] - loss: 0.414049  acc: 93.7500%(15/16)
+## The 4 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.781737  acc: 68.7500%(11/16)
+Dev  Accuracy:  Evaluation - loss: 0.000634  acc: 70.8716%(618/872)
+Test Accuracy:  Evaluation - loss: 0.000312  acc: 69.9066%(1273/1821)
+The Current Best Dev Accuracy: 79.3578, and Test Accuracy is :80.0110, locate on 3 epoch.
+
+Batch[400/6920] - loss: 0.382773  acc: 87.5000%(14/16))
+Dev  Accuracy:  Evaluation - loss: 0.000498  acc: 80.1606%(699/872)
+Test Accuracy:  Evaluation - loss: 0.000238  acc: 80.4503%(1465/1821)
+The Current Best Dev Accuracy: 80.1606, and Test Accuracy is :80.4503, locate on 4 epoch.
+
+Batch[430/6920] - loss: 0.391150  acc: 81.2500%(13/16)
+## The 5 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.107559  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000500  acc: 79.4725%(693/872)
+Test Accuracy:  Evaluation - loss: 0.000232  acc: 80.1208%(1459/1821)
+The Current Best Dev Accuracy: 80.1606, and Test Accuracy is :80.4503, locate on 4 epoch.
+
+Batch[400/6920] - loss: 0.296353  acc: 81.2500%(13/16)
+Dev  Accuracy:  Evaluation - loss: 0.000475  acc: 80.6193%(703/872)
+Test Accuracy:  Evaluation - loss: 0.000221  acc: 82.0428%(1494/1821)
+The Current Best Dev Accuracy: 80.6193, and Test Accuracy is :82.0428, locate on 5 epoch.
+
+Batch[430/6920] - loss: 0.274656  acc: 93.7500%(15/16)
+## The 6 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.139807  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.000521  acc: 78.6697%(686/872)
+Test Accuracy:  Evaluation - loss: 0.000239  acc: 79.9012%(1455/1821)
+The Current Best Dev Accuracy: 80.6193, and Test Accuracy is :82.0428, locate on 5 epoch.
+
+Batch[400/6920] - loss: 0.139382  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.000491  acc: 81.0780%(707/872)
+Test Accuracy:  Evaluation - loss: 0.000223  acc: 81.7133%(1488/1821)
+The Current Best Dev Accuracy: 81.0780, and Test Accuracy is :81.7133, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.125415  acc: 93.7500%(15/16)
+## The 7 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.283328  acc: 87.5000%(14/16))
+Dev  Accuracy:  Evaluation - loss: 0.000510  acc: 80.2752%(700/872)
+Test Accuracy:  Evaluation - loss: 0.000230  acc: 81.1093%(1477/1821)
+The Current Best Dev Accuracy: 81.0780, and Test Accuracy is :81.7133, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.246715  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.000495  acc: 80.5046%(702/872)
+Test Accuracy:  Evaluation - loss: 0.000222  acc: 82.2076%(1497/1821)
+The Current Best Dev Accuracy: 81.0780, and Test Accuracy is :81.7133, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.266928  acc: 87.5000%(14/16))
+## The 8 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.121131  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.000535  acc: 79.3578%(692/872)
+Test Accuracy:  Evaluation - loss: 0.000244  acc: 80.5601%(1467/1821)
+The Current Best Dev Accuracy: 81.0780, and Test Accuracy is :81.7133, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.324360  acc: 87.5000%(14/16))
+Dev  Accuracy:  Evaluation - loss: 0.000522  acc: 80.7339%(704/872)
+Test Accuracy:  Evaluation - loss: 0.000233  acc: 82.3174%(1499/1821)
+The Current Best Dev Accuracy: 81.0780, and Test Accuracy is :81.7133, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.293986  acc: 81.2500%(13/16)
+## The 9 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.577299  acc: 68.7500%(11/16))
+Dev  Accuracy:  Evaluation - loss: 0.000561  acc: 80.9633%(706/872)
+Test Accuracy:  Evaluation - loss: 0.000243  acc: 82.0977%(1495/1821)
+The Current Best Dev Accuracy: 81.0780, and Test Accuracy is :81.7133, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.063424  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000519  acc: 81.0780%(707/872)
+Test Accuracy:  Evaluation - loss: 0.000226  acc: 82.0977%(1495/1821)
+The Current Best Dev Accuracy: 81.0780, and Test Accuracy is :82.0977, locate on 9 epoch.
+
+Batch[430/6920] - loss: 0.250327  acc: 87.5000%(14/16)
+## The 10 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.112256  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.000550  acc: 79.9312%(697/872)
+Test Accuracy:  Evaluation - loss: 0.000236  acc: 82.1527%(1496/1821)
+The Current Best Dev Accuracy: 81.0780, and Test Accuracy is :82.0977, locate on 9 epoch.
+
+Batch[400/6920] - loss: 0.088165  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000594  acc: 79.7018%(695/872)
+Test Accuracy:  Evaluation - loss: 0.000261  acc: 80.7249%(1470/1821)
+The Current Best Dev Accuracy: 81.0780, and Test Accuracy is :82.0977, locate on 9 epoch.
+
+Batch[430/6920] - loss: 0.035595  acc: 100.0000%(16/16)
+## The 11 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.263400  acc: 87.5000%(14/16))
+Dev  Accuracy:  Evaluation - loss: 0.000631  acc: 79.5872%(694/872)
+
+################### Attention + attack ##############################
+
+## The 1 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.327949  acc: 81.2500%(13/16)
+Dev  Accuracy:  Evaluation - loss: 0.000478  acc: 82.5688%(720/872)
+Test Accuracy:  Evaluation - loss: 0.000206  acc: 83.0862%(1513/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :83.0862, locate on 1 epoch.
+
+Batch[400/6920] - loss: 0.297202  acc: 81.2500%(13/16))
+Dev  Accuracy:  Evaluation - loss: 0.000501  acc: 81.6514%(712/872)
+Test Accuracy:  Evaluation - loss: 0.000216  acc: 83.0862%(1513/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :83.0862, locate on 1 epoch.
+
+Batch[430/6920] - loss: 0.272302  acc: 93.7500%(15/16)
+## The 2 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.152567  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.000531  acc: 82.3394%(718/872)
+Test Accuracy:  Evaluation - loss: 0.000218  acc: 83.0313%(1512/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :83.0862, locate on 1 epoch.
+
+Batch[400/6920] - loss: 0.379679  acc: 81.2500%(13/16))
+Dev  Accuracy:  Evaluation - loss: 0.000516  acc: 81.9954%(715/872)
+Test Accuracy:  Evaluation - loss: 0.000197  acc: 85.3926%(1555/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :83.0862, locate on 1 epoch.
+
+Batch[430/6920] - loss: 0.148115  acc: 93.7500%(15/16)
+## The 3 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.061250  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.000651  acc: 82.1101%(716/872)
+Test Accuracy:  Evaluation - loss: 0.000249  acc: 84.0747%(1531/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :83.0862, locate on 1 epoch.
+
+Batch[400/6920] - loss: 0.105425  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.000594  acc: 81.5367%(711/872)
+Test Accuracy:  Evaluation - loss: 0.000256  acc: 83.8550%(1527/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :83.0862, locate on 1 epoch.
+
+Batch[430/6920] - loss: 0.000629  acc: 100.0000%(16/16)
+## The 4 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.004490  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000730  acc: 81.9954%(715/872)
+Test Accuracy:  Evaluation - loss: 0.000301  acc: 83.8550%(1527/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :83.0862, locate on 1 epoch.
+
+Batch[400/6920] - loss: 0.011181  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000979  acc: 82.3394%(718/872)
+Test Accuracy:  Evaluation - loss: 0.000389  acc: 84.0198%(1530/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :83.0862, locate on 1 epoch.
+
+Batch[430/6920] - loss: 0.000264  acc: 100.0000%(16/16)
+## The 5 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.007376  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001020  acc: 81.1927%(708/872)
+Test Accuracy:  Evaluation - loss: 0.000400  acc: 83.4157%(1519/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :83.0862, locate on 1 epoch.
+
+Batch[400/6920] - loss: 0.121304  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.001050  acc: 81.1927%(708/872)
+Test Accuracy:  Evaluation - loss: 0.000441  acc: 81.8781%(1491/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :83.0862, locate on 1 epoch.
+
+Batch[430/6920] - loss: 0.010939  acc: 100.0000%(16/16)
+## The 6 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.003566  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001108  acc: 82.5688%(720/872)
+Test Accuracy:  Evaluation - loss: 0.000434  acc: 84.4591%(1538/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.000114  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001352  acc: 81.1927%(708/872)
+Test Accuracy:  Evaluation - loss: 0.000557  acc: 82.3723%(1500/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.000229  acc: 100.0000%(16/16)
+## The 7 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.000775  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001148  acc: 81.5367%(711/872)
+Test Accuracy:  Evaluation - loss: 0.000488  acc: 82.4272%(1501/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.000283  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001297  acc: 81.6514%(712/872)
+Test Accuracy:  Evaluation - loss: 0.000531  acc: 83.2510%(1516/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.671187  acc: 93.7500%(15/16))
+## The 8 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.000634  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001072  acc: 81.4220%(710/872)
+Test Accuracy:  Evaluation - loss: 0.000455  acc: 82.4272%(1501/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.000795  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001125  acc: 81.5367%(711/872)
+Test Accuracy:  Evaluation - loss: 0.000486  acc: 82.0977%(1495/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.298272  acc: 93.7500%(15/16))
+## The 9 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.000015  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001527  acc: 82.3394%(718/872)
+Test Accuracy:  Evaluation - loss: 0.000661  acc: 82.0428%(1494/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.001400  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001141  acc: 81.8807%(714/872)
+Test Accuracy:  Evaluation - loss: 0.000506  acc: 81.8781%(1491/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.001192  acc: 100.0000%(16/16)
+## The 10 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.036158  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001630  acc: 78.7844%(687/872)
+Test Accuracy:  Evaluation - loss: 0.000714  acc: 80.6150%(1468/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.000229  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001592  acc: 81.9954%(715/872)
+Test Accuracy:  Evaluation - loss: 0.000653  acc: 83.1411%(1514/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.004424  acc: 100.0000%(16/16)
+## The 11 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.001021  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001304  acc: 81.9954%(715/872)
+Test Accuracy:  Evaluation - loss: 0.000541  acc: 82.5371%(1503/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.000314  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001391  acc: 81.5367%(711/872)
+Test Accuracy:  Evaluation - loss: 0.000595  acc: 82.7018%(1506/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.000041  acc: 100.0000%(16/16)
+## The 12 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.000006  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001762  acc: 81.3073%(709/872)
+Test Accuracy:  Evaluation - loss: 0.000755  acc: 82.3723%(1500/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.014840  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001283  acc: 79.5872%(694/872)
+Test Accuracy:  Evaluation - loss: 0.000548  acc: 82.2625%(1498/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.000073  acc: 100.0000%(16/16)
+## The 13 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.043552  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.001312  acc: 81.4220%(710/872)
+Test Accuracy:  Evaluation - loss: 0.000547  acc: 82.2625%(1498/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.000756  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001254  acc: 77.5229%(676/872)
+Test Accuracy:  Evaluation - loss: 0.000564  acc: 80.3405%(1463/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.000300  acc: 100.0000%(16/16)
+## The 14 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.000151  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001797  acc: 80.9633%(706/872)
+Test Accuracy:  Evaluation - loss: 0.000749  acc: 82.3174%(1499/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.000231  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001509  acc: 79.3578%(692/872)
+Test Accuracy:  Evaluation - loss: 0.000682  acc: 81.0544%(1476/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.144476  acc: 93.7500%(15/16))
+## The 15 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.000027  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001611  acc: 79.0138%(689/872)
+Test Accuracy:  Evaluation - loss: 0.000687  acc: 81.3839%(1482/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.000034  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001777  acc: 78.8991%(688/872)
+Test Accuracy:  Evaluation - loss: 0.000755  acc: 80.8347%(1472/1821)
+The Current Best Dev Accuracy: 82.5688, and Test Accuracy is :84.4591, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.020379  acc: 100.0000%(16/16)%
+
+################# baseline #####################
+
+
+
+
+## The 1 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.701202  acc: 56.2500%(9/16))
+Dev  Accuracy:  Evaluation - loss: 0.000829  acc: 50.9174%(444/872)
+Test Accuracy:  Evaluation - loss: 0.000401  acc: 49.9176%(909/1821)
+The Current Best Dev Accuracy: 50.9174, and Test Accuracy is :49.9176, locate on 1 epoch.
+
+Batch[400/6920] - loss: 0.672649  acc: 68.7500%(11/16)
+Dev  Accuracy:  Evaluation - loss: 0.000789  acc: 51.0321%(445/872)
+Test Accuracy:  Evaluation - loss: 0.000378  acc: 50.3020%(916/1821)
+The Current Best Dev Accuracy: 51.0321, and Test Accuracy is :50.3020, locate on 1 epoch.
+
+Batch[430/6920] - loss: 0.694070  acc: 43.7500%(7/16))
+## The 2 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.618554  acc: 56.2500%(9/16))
+Dev  Accuracy:  Evaluation - loss: 0.000756  acc: 56.9954%(497/872)
+Test Accuracy:  Evaluation - loss: 0.000364  acc: 54.2010%(987/1821)
+The Current Best Dev Accuracy: 56.9954, and Test Accuracy is :54.2010, locate on 2 epoch.
+
+Batch[400/6920] - loss: 0.619190  acc: 68.7500%(11/16)
+Dev  Accuracy:  Evaluation - loss: 0.000724  acc: 74.0826%(646/872)
+Test Accuracy:  Evaluation - loss: 0.000350  acc: 73.2565%(1334/1821)
+The Current Best Dev Accuracy: 74.0826, and Test Accuracy is :73.2565, locate on 2 epoch.
+
+Batch[430/6920] - loss: 0.803639  acc: 37.5000%(6/16)
+## The 3 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.684443  acc: 56.2500%(9/16))
+Dev  Accuracy:  Evaluation - loss: 0.000675  acc: 74.6560%(651/872)
+Test Accuracy:  Evaluation - loss: 0.000329  acc: 70.8402%(1290/1821)
+The Current Best Dev Accuracy: 74.6560, and Test Accuracy is :70.8402, locate on 3 epoch.
+
+Batch[400/6920] - loss: 0.804129  acc: 56.2500%(9/16))
+Dev  Accuracy:  Evaluation - loss: 0.000724  acc: 69.4954%(606/872)
+Test Accuracy:  Evaluation - loss: 0.000315  acc: 71.1148%(1295/1821)
+The Current Best Dev Accuracy: 74.6560, and Test Accuracy is :70.8402, locate on 3 epoch.
+
+Batch[430/6920] - loss: 0.628946  acc: 62.5000%(10/16)
+## The 4 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.431810  acc: 81.2500%(13/16)
+Dev  Accuracy:  Evaluation - loss: 0.000571  acc: 77.9817%(680/872)
+Test Accuracy:  Evaluation - loss: 0.000273  acc: 78.6930%(1433/1821)
+The Current Best Dev Accuracy: 77.9817, and Test Accuracy is :78.6930, locate on 4 epoch.
+
+Batch[400/6920] - loss: 0.382745  acc: 81.2500%(13/16)
+Dev  Accuracy:  Evaluation - loss: 0.000546  acc: 78.5550%(685/872)
+Test Accuracy:  Evaluation - loss: 0.000252  acc: 80.6150%(1468/1821)
+The Current Best Dev Accuracy: 78.5550, and Test Accuracy is :80.6150, locate on 4 epoch.
+
+Batch[430/6920] - loss: 0.586402  acc: 68.7500%(11/16)
+## The 5 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.298253  acc: 87.5000%(14/16)
+Dev  Accuracy:  Evaluation - loss: 0.000561  acc: 76.1468%(664/872)
+Test Accuracy:  Evaluation - loss: 0.000248  acc: 80.0110%(1457/1821)
+The Current Best Dev Accuracy: 78.5550, and Test Accuracy is :80.6150, locate on 4 epoch.
+
+Batch[400/6920] - loss: 0.321065  acc: 87.5000%(14/16)
+Dev  Accuracy:  Evaluation - loss: 0.000521  acc: 77.5229%(676/872)
+Test Accuracy:  Evaluation - loss: 0.000239  acc: 80.6150%(1468/1821)
+The Current Best Dev Accuracy: 78.5550, and Test Accuracy is :80.6150, locate on 4 epoch.
+
+Batch[430/6920] - loss: 0.495322  acc: 62.5000%(10/16))
+## The 6 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.318173  acc: 81.2500%(13/16)
+Dev  Accuracy:  Evaluation - loss: 0.000509  acc: 79.1284%(690/872)
+Test Accuracy:  Evaluation - loss: 0.000235  acc: 82.2076%(1497/1821)
+The Current Best Dev Accuracy: 79.1284, and Test Accuracy is :82.2076, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.295947  acc: 93.7500%(15/16)
+Dev  Accuracy:  Evaluation - loss: 0.000506  acc: 79.2431%(691/872)
+Test Accuracy:  Evaluation - loss: 0.000227  acc: 81.8232%(1490/1821)
+The Current Best Dev Accuracy: 79.2431, and Test Accuracy is :81.8232, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.596283  acc: 81.2500%(13/16)
+## The 7 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.369284  acc: 81.2500%(13/16)
+Dev  Accuracy:  Evaluation - loss: 0.000517  acc: 77.7523%(678/872)
+Test Accuracy:  Evaluation - loss: 0.000235  acc: 80.6700%(1469/1821)
+The Current Best Dev Accuracy: 79.2431, and Test Accuracy is :81.8232, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.089258  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000529  acc: 76.6055%(668/872)
+Test Accuracy:  Evaluation - loss: 0.000240  acc: 79.4069%(1446/1821)
+The Current Best Dev Accuracy: 79.2431, and Test Accuracy is :81.8232, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.139444  acc: 93.7500%(15/16)
+## The 8 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.184068  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.000522  acc: 78.0963%(681/872)
+Test Accuracy:  Evaluation - loss: 0.000225  acc: 81.3839%(1482/1821)
+The Current Best Dev Accuracy: 79.2431, and Test Accuracy is :81.8232, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.159815  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000652  acc: 74.4266%(649/872)
+Test Accuracy:  Evaluation - loss: 0.000292  acc: 74.4646%(1356/1821)
+The Current Best Dev Accuracy: 79.2431, and Test Accuracy is :81.8232, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.298844  acc: 87.5000%(14/16)
+## The 9 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.344905  acc: 87.5000%(14/16))
+Dev  Accuracy:  Evaluation - loss: 0.000536  acc: 78.7844%(687/872)
+Test Accuracy:  Evaluation - loss: 0.000223  acc: 82.5920%(1504/1821)
+The Current Best Dev Accuracy: 79.2431, and Test Accuracy is :81.8232, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.394777  acc: 81.2500%(13/16))
+Dev  Accuracy:  Evaluation - loss: 0.000675  acc: 73.5092%(641/872)
+Test Accuracy:  Evaluation - loss: 0.000310  acc: 73.2565%(1334/1821)
+The Current Best Dev Accuracy: 79.2431, and Test Accuracy is :81.8232, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.228702  acc: 81.2500%(13/16))
+## The 10 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.239334  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.000548  acc: 78.5550%(685/872)
+Test Accuracy:  Evaluation - loss: 0.000230  acc: 81.6035%(1486/1821)
+The Current Best Dev Accuracy: 79.2431, and Test Accuracy is :81.8232, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.554061  acc: 75.0000%(12/16))
+Dev  Accuracy:  Evaluation - loss: 0.000524  acc: 78.4404%(684/872)
+Test Accuracy:  Evaluation - loss: 0.000222  acc: 82.7018%(1506/1821)
+The Current Best Dev Accuracy: 79.2431, and Test Accuracy is :81.8232, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.259993  acc: 87.5000%(14/16))
+## The 11 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.034236  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000599  acc: 75.8028%(661/872)
+Test Accuracy:  Evaluation - loss: 0.000264  acc: 77.5947%(1413/1821)
+The Current Best Dev Accuracy: 79.2431, and Test Accuracy is :81.8232, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.138930  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.000553  acc: 78.2110%(682/872)
+Test Accuracy:  Evaluation - loss: 0.000231  acc: 82.0428%(1494/1821)
+The Current Best Dev Accuracy: 79.2431, and Test Accuracy is :81.8232, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.254420  acc: 87.5000%(14/16)
+## The 12 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.170467  acc: 87.5000%(14/16))
+Dev  Accuracy:  Evaluation - loss: 0.000599  acc: 77.9817%(680/872)
+Test Accuracy:  Evaluation - loss: 0.000250  acc: 81.0544%(1476/1821)
+The Current Best Dev Accuracy: 79.2431, and Test Accuracy is :81.8232, locate on 6 epoch.
+
+Batch[400/6920] - loss: 0.098978  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.000628  acc: 77.7523%(678/872)
+Test Accuracy:  Evaluation - loss: 0.000257  acc: 80.6700%(1469/1821)
+The Current Best Dev Accuracy: 79.2431, and Test Accuracy is :81.8232, locate on 6 epoch.
+
+Batch[430/6920] - loss: 0.526587  acc: 81.2500%(13/16))
+## The 13 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.055496  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000556  acc: 79.7018%(695/872)
+Test Accuracy:  Evaluation - loss: 0.000233  acc: 82.4272%(1501/1821)
+The Current Best Dev Accuracy: 79.7018, and Test Accuracy is :82.4272, locate on 13 epoch.
+
+Batch[400/6920] - loss: 0.290497  acc: 81.2500%(13/16))
+Dev  Accuracy:  Evaluation - loss: 0.000567  acc: 78.4404%(684/872)
+Test Accuracy:  Evaluation - loss: 0.000244  acc: 79.7364%(1452/1821)
+The Current Best Dev Accuracy: 79.7018, and Test Accuracy is :82.4272, locate on 13 epoch.
+
+Batch[430/6920] - loss: 0.271573  acc: 87.5000%(14/16)
+## The 14 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.157465  acc: 87.5000%(14/16))
+Dev  Accuracy:  Evaluation - loss: 0.000599  acc: 79.4725%(693/872)
+Test Accuracy:  Evaluation - loss: 0.000253  acc: 82.1527%(1496/1821)
+The Current Best Dev Accuracy: 79.7018, and Test Accuracy is :82.4272, locate on 13 epoch.
+
+Batch[400/6920] - loss: 0.051897  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000697  acc: 76.7202%(669/872)
+Test Accuracy:  Evaluation - loss: 0.000304  acc: 77.6496%(1414/1821)
+The Current Best Dev Accuracy: 79.7018, and Test Accuracy is :82.4272, locate on 13 epoch.
+
+Batch[430/6920] - loss: 0.021361  acc: 100.0000%(16/16)
+## The 15 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.090061  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000593  acc: 78.7844%(687/872)
+Test Accuracy:  Evaluation - loss: 0.000250  acc: 81.2191%(1479/1821)
+The Current Best Dev Accuracy: 79.7018, and Test Accuracy is :82.4272, locate on 13 epoch.
+
+Batch[400/6920] - loss: 0.457694  acc: 87.5000%(14/16))
+Dev  Accuracy:  Evaluation - loss: 0.000611  acc: 79.7018%(695/872)
+Test Accuracy:  Evaluation - loss: 0.000253  acc: 81.8781%(1491/1821)
+The Current Best Dev Accuracy: 79.7018, and Test Accuracy is :81.8781, locate on 15 epoch.
+
+Batch[430/6920] - loss: 0.061609  acc: 100.0000%(16/16)%
+
+###################### Attention #######################
+
+
+## The 1 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.450527  acc: 81.2500%(13/16)
+Dev  Accuracy:  Evaluation - loss: 0.000465  acc: 82.2248%(717/872)
+Test Accuracy:  Evaluation - loss: 0.000215  acc: 83.3608%(1518/1821)
+The Current Best Dev Accuracy: 82.2248, and Test Accuracy is :83.3608, locate on 1 epoch.
+
+Batch[400/6920] - loss: 0.303568  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000470  acc: 83.0275%(724/872)
+Test Accuracy:  Evaluation - loss: 0.000213  acc: 84.1845%(1533/1821)
+The Current Best Dev Accuracy: 83.0275, and Test Accuracy is :84.1845, locate on 1 epoch.
+
+Batch[430/6920] - loss: 0.399227  acc: 93.7500%(15/16)
+## The 2 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.141698  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.000424  acc: 83.9450%(732/872)
+Test Accuracy:  Evaluation - loss: 0.000179  acc: 86.4360%(1574/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :86.4360, locate on 2 epoch.
+
+Batch[400/6920] - loss: 0.270013  acc: 87.5000%(14/16))
+Dev  Accuracy:  Evaluation - loss: 0.000528  acc: 81.3073%(709/872)
+Test Accuracy:  Evaluation - loss: 0.000233  acc: 80.8896%(1473/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :86.4360, locate on 2 epoch.
+
+Batch[430/6920] - loss: 0.264030  acc: 81.2500%(13/16)
+## The 3 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.217114  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.000499  acc: 83.1422%(725/872)
+Test Accuracy:  Evaluation - loss: 0.000202  acc: 85.3377%(1554/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :86.4360, locate on 2 epoch.
+
+Batch[400/6920] - loss: 0.132328  acc: 87.5000%(14/16))
+Dev  Accuracy:  Evaluation - loss: 0.000473  acc: 83.6009%(729/872)
+Test Accuracy:  Evaluation - loss: 0.000189  acc: 86.6557%(1578/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :86.4360, locate on 2 epoch.
+
+Batch[430/6920] - loss: 0.162028  acc: 93.7500%(15/16)
+## The 4 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.023106  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000544  acc: 82.5688%(720/872)
+Test Accuracy:  Evaluation - loss: 0.000218  acc: 85.8320%(1563/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :86.4360, locate on 2 epoch.
+
+Batch[400/6920] - loss: 0.090120  acc: 93.7500%(15/16))
+Dev  Accuracy:  Evaluation - loss: 0.000502  acc: 82.6835%(721/872)
+Test Accuracy:  Evaluation - loss: 0.000197  acc: 85.5025%(1557/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :86.4360, locate on 2 epoch.
+
+Batch[430/6920] - loss: 0.041336  acc: 100.0000%(16/16)
+## The 5 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.003665  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000675  acc: 82.3394%(718/872)
+Test Accuracy:  Evaluation - loss: 0.000257  acc: 84.0198%(1530/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :86.4360, locate on 2 epoch.
+
+Batch[400/6920] - loss: 0.005272  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000629  acc: 81.8807%(714/872)
+Test Accuracy:  Evaluation - loss: 0.000250  acc: 83.9099%(1528/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :86.4360, locate on 2 epoch.
+
+Batch[430/6920] - loss: 0.044237  acc: 100.0000%(16/16)
+## The 6 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.001139  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000743  acc: 82.6835%(721/872)
+Test Accuracy:  Evaluation - loss: 0.000298  acc: 83.9649%(1529/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :86.4360, locate on 2 epoch.
+
+Batch[400/6920] - loss: 0.013968  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000791  acc: 81.5367%(711/872)
+Test Accuracy:  Evaluation - loss: 0.000338  acc: 81.7683%(1489/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :86.4360, locate on 2 epoch.
+
+Batch[430/6920] - loss: 0.002135  acc: 100.0000%(16/16)
+## The 7 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.011956  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000735  acc: 81.9954%(715/872)
+Test Accuracy:  Evaluation - loss: 0.000270  acc: 85.2828%(1553/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :86.4360, locate on 2 epoch.
+
+Batch[400/6920] - loss: 0.000963  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000737  acc: 82.9128%(723/872)
+Test Accuracy:  Evaluation - loss: 0.000283  acc: 85.0632%(1549/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :86.4360, locate on 2 epoch.
+
+Batch[430/6920] - loss: 0.001007  acc: 100.0000%(16/16)
+## The 8 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.000681  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000802  acc: 82.4541%(719/872)
+Test Accuracy:  Evaluation - loss: 0.000303  acc: 84.8435%(1545/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :86.4360, locate on 2 epoch.
+
+Batch[400/6920] - loss: 0.000226  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000794  acc: 83.9450%(732/872)
+Test Accuracy:  Evaluation - loss: 0.000307  acc: 85.3377%(1554/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :85.3377, locate on 8 epoch.
+
+Batch[430/6920] - loss: 0.000211  acc: 100.0000%(16/16)
+## The 9 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.000187  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000925  acc: 83.1422%(725/872)
+Test Accuracy:  Evaluation - loss: 0.000382  acc: 83.6354%(1523/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :85.3377, locate on 8 epoch.
+
+Batch[400/6920] - loss: 0.000297  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000857  acc: 82.7982%(722/872)
+Test Accuracy:  Evaluation - loss: 0.000347  acc: 84.2943%(1535/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :85.3377, locate on 8 epoch.
+
+Batch[430/6920] - loss: 0.001654  acc: 100.0000%(16/16)
+## The 10 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.000515  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000917  acc: 81.5367%(711/872)
+Test Accuracy:  Evaluation - loss: 0.000377  acc: 83.6354%(1523/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :85.3377, locate on 8 epoch.
+
+Batch[400/6920] - loss: 0.000070  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000993  acc: 81.9954%(715/872)
+Test Accuracy:  Evaluation - loss: 0.000413  acc: 83.3608%(1518/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :85.3377, locate on 8 epoch.
+
+Batch[430/6920] - loss: 0.000196  acc: 100.0000%(16/16)
+## The 11 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.000172  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000844  acc: 83.2569%(726/872)
+Test Accuracy:  Evaluation - loss: 0.000338  acc: 84.8984%(1546/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :85.3377, locate on 8 epoch.
+
+Batch[400/6920] - loss: 0.000150  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000933  acc: 81.8807%(714/872)
+Test Accuracy:  Evaluation - loss: 0.000388  acc: 84.2394%(1534/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :85.3377, locate on 8 epoch.
+
+Batch[430/6920] - loss: 0.000054  acc: 100.0000%(16/16)
+## The 12 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.000045  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001040  acc: 82.4541%(719/872)
+Test Accuracy:  Evaluation - loss: 0.000403  acc: 84.6787%(1542/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :85.3377, locate on 8 epoch.
+
+Batch[400/6920] - loss: 0.000165  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000884  acc: 83.2569%(726/872)
+Test Accuracy:  Evaluation - loss: 0.000348  acc: 84.8984%(1546/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :85.3377, locate on 8 epoch.
+
+Batch[430/6920] - loss: 0.000241  acc: 100.0000%(16/16)
+## The 13 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.000427  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000900  acc: 82.5688%(720/872)
+Test Accuracy:  Evaluation - loss: 0.000348  acc: 85.3377%(1554/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :85.3377, locate on 8 epoch.
+
+Batch[400/6920] - loss: 0.000060  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001126  acc: 82.4541%(719/872)
+Test Accuracy:  Evaluation - loss: 0.000439  acc: 85.6672%(1560/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :85.3377, locate on 8 epoch.
+
+Batch[430/6920] - loss: 0.000632  acc: 100.0000%(16/16)
+## The 14 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.000065  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001031  acc: 81.8807%(714/872)
+Test Accuracy:  Evaluation - loss: 0.000386  acc: 85.1181%(1550/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :85.3377, locate on 8 epoch.
+
+Batch[400/6920] - loss: 0.000124  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001171  acc: 80.3899%(701/872)
+Test Accuracy:  Evaluation - loss: 0.000506  acc: 81.8781%(1491/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :85.3377, locate on 8 epoch.
+
+Batch[430/6920] - loss: 0.000115  acc: 100.0000%(16/16)
+## The 15 Epoch, All 15 Epochs ! ##
+Batch[200/6920] - loss: 0.001304  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.000906  acc: 83.0275%(724/872)
+Test Accuracy:  Evaluation - loss: 0.000354  acc: 85.9418%(1565/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :85.3377, locate on 8 epoch.
+
+Batch[400/6920] - loss: 0.000046  acc: 100.0000%(16/16)
+Dev  Accuracy:  Evaluation - loss: 0.001152  acc: 82.5688%(720/872)
+Test Accuracy:  Evaluation - loss: 0.000464  acc: 83.6903%(1524/1821)
+The Current Best Dev Accuracy: 83.9450, and Test Accuracy is :85.3377, locate on 8 epoch.
+
+Batch[430/6920] - loss: 0.000516  acc: 100.0000%(16/16)%
+######################## Attack ###########################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
