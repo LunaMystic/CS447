@@ -1,0 +1,2 @@
+In this project you also need glove sentiment pretrained word embedding. Here is the link to download:
+https://github.com/bamtercelboo/cnn-lstm-bilstm-deepcnn-clstm-in-pytorch/blob/master/word2vec/glove.sentiment.conj.pretrained.txt
