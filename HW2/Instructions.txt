@@ -1,0 +1,4 @@
+To do the Assignment 2, follow the instructions as follows : 
+1) Load the Assignment2.ipynb on the google colab. (https://colab.research.google.com)
+2) After you have uploaded your ipynb and opened it. Click on 'Runtime' at the top bar, click on 'Change Runtime Type' and set the hardware accelerator to GPU.
+3) Once you have finished the assignment you are expected to submit the result.txt and your code to gradescope. Follow the instructions in the ipython notebook for submitting your files.
